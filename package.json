@@ -4,8 +4,8 @@
   "description": "This is swiggyapp create by Ram Muthyala",
   "main": "App.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "start": "parcel App.js",
+    "build": "parcel build App.js",
     "test": "jest",
     "watch-test": "jest --watch"
   },
