@@ -1,7 +1,7 @@
 {
   "name": "swiggy-app",
   "version": "1.0.0",
-  "main": "/src/App.js",
+  "main": "src/App.js",
   "description": "This is swiggyapp create by Ram Muthyala",
   "scripts": {
     "start": "parcel ",
