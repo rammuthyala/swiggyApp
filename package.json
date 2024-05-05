@@ -1,13 +1,11 @@
 {
   "name": "swiggy-app",
   "version": "1.0.0",
-  "targets": {
-  "main": false
-},
+  "main": "/src/App.js",
   "description": "This is swiggyapp create by Ram Muthyala",
   "scripts": {
-    "start": "parcel App.html",
-    "build": "parcel build App.html",
+    "start": "parcel ",
+    "build": "parcel build ",
     "test": "jest",
     "watch-test": "jest --watch"
   },
